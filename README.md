@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # WeatherDashboard
-The Weather Dashboard project is a web application built using React.js that provides users with real-time weather information and forecasts for multiple cities. The dashboard features a user-friendly interface where users can view current weather conditions, temperature trends, and precipitation forecasts at a glance.
+The Weather Dashboard project is a web application built using React.js that provides users with real-time weather information and forecasts for multiple cities. The dashboard features a user-friendly interface where users can view current weather conditions, temperature trends, and precipitation forecasts at a glance.The project involves developing a weather dashboard application using React for the front-end and Material-UI for styling. Backend services, including user authentication and data storage, are handled by Firebase, specifically Firebase Authentication for user management
 >>>>>>> e21b109be7f623af751127a3923ff2f867b6f7a6
